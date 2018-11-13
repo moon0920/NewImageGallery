@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewImageGallery</string>
+    <string name="btnImagecall">ImageView From Gallery</string>
+    <string name="btnImagephoto">Take Button</string>
+</resources>
